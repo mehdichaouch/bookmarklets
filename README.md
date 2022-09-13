@@ -17,7 +17,7 @@ In your url field you should have something like that
 javascript:(function()....);
 ```
 
-N.B. if you get some trouble with encoding, you can [encode URL](https://coderstoolbox.net/string/#!encoding=url&action=encode&charset=utf_8) the minified code.
+N.B. if you get some trouble with encoding, you can [encode URL](https://coderstoolbox.net/string/#!encoding=url&action=encode&charset=utf_8) the minified code or directly this [Bookmarklet Maker](https://bookmarklets.org/maker/).
 
 ## Authors
 
